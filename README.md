@@ -6,7 +6,7 @@
 [![Statsmodels](https://img.shields.io/badge/Statsmodls-0.14%2B-8CAAE6.svg)](https://www.statsmodels.org/)
 
 > Predicting student pass/fail, 4+ weeks early using behavioural
-> engagement data — enabling targeted intervention before outcomes are set.
+> engagement data — enabling targeted intervention before outcomes are set
 
 ---
 ## Problem Statement
