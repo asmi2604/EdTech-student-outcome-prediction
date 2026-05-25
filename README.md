@@ -6,14 +6,14 @@
 [![Statsmodels](https://img.shields.io/badge/Statsmodls-0.14%2B-8CAAE6.svg)](https://www.statsmodels.org/)
 
 > Predicting student pass/fail, 4+ weeks early using behavioural
-> engagement data — enabling targeted intervention before outcomes are set
+> engagement data enabling targeted intervention before outcomes are set
 
 ---
 ## Problem Statement
 EdTech platforms globally struggle with student dropout, often identifying 
 at-risk students too late to intervene. This project builds a predictive 
 model to classify students as likely to pass or fail based on early 
-engagement behaviour — giving educators a 4-week intervention window.
+engagement behaviour giving educators a 4-week intervention window.
 
 ---
 
@@ -55,7 +55,7 @@ The `withdrew` flag was the #2 predictor. Unregistration patterns
 are visible in the data weeks before the formal dropout occurs.
 
 **4. Pass rate varies 20%+ across modules**  
-Some modules consistently underperform — pointing to content design 
+Some modules consistently underperform, pointing to content design 
 issues, not just student behaviour.
 
 ---
